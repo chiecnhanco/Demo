@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTModuleMethod.m \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/thiennl/Desktop/Demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/thiennl/Desktop/Demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/thiennl/Desktop/Demo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/thiennl/Desktop/Demo/node_modules/react-native/React/Profiler/RCTProfile.h
